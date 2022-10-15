@@ -4,7 +4,7 @@
 
 ### 📫 How to reach me: 
 - WeChat: 15858106612 
-- mailbox: teach.wangw@gmail.com
+- Mailbox: teach.wangw@gmail.com
 
 ### 😄 Pronouns: Talking is cheap, show me the code
 <br>
