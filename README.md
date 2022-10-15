@@ -7,7 +7,7 @@
 - 😄 Pronouns: Talking is cheap, show me the code
 
 - 📫 How to reach me: 
-WeChat: 15858106612
+WeChat: 15858106612 <br>
 mailbox: teach.wangw@gmail.com
 
 <!--
