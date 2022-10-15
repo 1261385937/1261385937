@@ -5,8 +5,8 @@
 ### - 😄 Pronouns: Talking is cheap, show me the code
 
 ### - 📫 How to reach me: 
-### <br>WeChat: 15858106612 
-### <br>mailbox: teach.wangw@gmail.com
+## WeChat: 15858106612 
+## mailbox: teach.wangw@gmail.com
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1261385937&show_icons=true&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
