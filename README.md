@@ -7,8 +7,8 @@
 - 😄 Pronouns: Talking is cheap, show me the code
 
 - 📫 How to reach me: 
-WeChat: 15858106612 <br>
-mailbox: teach.wangw@gmail.com
+<br>WeChat: 15858106612 
+<br>mailbox: teach.wangw@gmail.com
 
 <!--
 **1261385937/1261385937** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
