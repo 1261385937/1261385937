@@ -3,7 +3,7 @@
 ### 🔭 <font size=30>I’m currently working on data security</font>
 
 ### 📫 How to reach me: 
-- WeChat or Phonel: 15858106612 
+- WeChat or Phone: 15858106612 
 - Mailbox: teach.wangw@gmail.com
 
 ### 😄 Pronouns: Talking is cheap, show me the code
