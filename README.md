@@ -1,14 +1,15 @@
 ### Hi, I am WangWei 👋
 
+### - 🔭 <font size=30>I’m currently working on data security</font>
+
+### - 😄 Pronouns: Talking is cheap, show me the code
+
+### - 📫 How to reach me: 
+### <br>WeChat: 15858106612 
+### <br>mailbox: teach.wangw@gmail.com
+
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1261385937&show_icons=true&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
-
-- 🔭 <font size=30>I’m currently working on data security</font>
-
-- 😄 Pronouns: Talking is cheap, show me the code
-
-- 📫 How to reach me: 
-<br>WeChat: 15858106612 
-<br>mailbox: teach.wangw@gmail.com
 
 <!--
 **1261385937/1261385937** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
